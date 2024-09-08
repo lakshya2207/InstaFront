@@ -1,0 +1,11 @@
+get:
+profile
+profile post
+all posts
+users
+
+post:
+login
+signup
+create/edit profile
+create/edit post {liked,commment}
